@@ -18,7 +18,7 @@ import org.jivesoftware.smack.XMPPException;
 
 public class LoginActivity extends AppCompatActivity {
 
-    public static final String HOST = "172.17.32.100";
+    public static final String HOST = "192.168.23.8";
     public static final int PORT = 5222;
     private TextView mEtUserName;
     private TextView mEtPsssword;
